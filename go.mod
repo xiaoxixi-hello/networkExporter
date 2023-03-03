@@ -5,6 +5,9 @@ go 1.19
 require (
 	github.com/gin-gonic/gin v1.9.0
 	github.com/prometheus/client_golang v1.14.0
+	github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/common v1.0.604
+	github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/monitor v1.0.604
+	gopkg.in/ini.v1 v1.67.0
 )
 
 require (
